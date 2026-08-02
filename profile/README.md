@@ -7,7 +7,7 @@
 
 **A nonprofit organization building free, open-source creative software for everyone.**
 
-[Website](https://cutwire.org) · [Documentation](https://docs.cutwire.org) · [Prism](https://github.com/CutWire-Studios/Prism)
+[Website](https://cutwire.org) · [Documentation](https://docs.cutwire.org) · [Prism](https://github.com/CutWire-Studios/Prism) · [Drift](https://github.com/CutWire-Studios/Drift)
 
 <br />
 
@@ -69,13 +69,44 @@ A beginner-friendly live media trigger and overlay tool built with Qt 6, FFmpeg,
   <a href="https://github.com/CutWire-Studios/Prism/releases"><img src="https://img.shields.io/github/v/release/CutWire-Studios/Prism?style=for-the-badge&label=Download%20Prism&color=111111" alt="Download Prism" /></a>
 </p>
 
+### [Drift](https://github.com/CutWire-Studios/Drift)
+
+*Create polished videos fast — free, open, and yours.*
+
+A free desktop video editor built with Qt 6, QML, and FFmpeg. Drop in clips, add effects and stickers, generate captions, and export — with no subscription, no watermark, and no account required. Preview and export share one compositor, so what you see is what you get.
+
+<p align="center">
+  <img src="./assets/drift-mock.jpg" alt="CutWire Drift interface" width="720" />
+</p>
+
+| | |
+|---|---|
+| **Platforms** | Linux · Windows · macOS |
+| **License** | GPLv3 |
+| **Docs** | [docs.cutwire.org/drift](https://docs.cutwire.org/drift) |
+
+**Highlights**
+
+- Multi-track timeline — trim, split, snap, ripple, mute/hide, full undo/redo
+- GPU effects, stylish transitions, and reusable look templates
+- Stickers, emoji, titles, shapes, and auto captions from speech
+- Subject cutouts, masks, green screen, speed & motion, and on-demand addons
+
+<p align="center">
+  <a href="https://github.com/CutWire-Studios/Drift"><img src="./assets/drift-cover.jpg" alt="Get CutWire Drift" width="420" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CutWire-Studios/Drift/releases"><img src="https://img.shields.io/github/v/release/CutWire-Studios/Drift?style=for-the-badge&label=Download%20Drift&color=111111" alt="Download Drift" /></a>
+</p>
+
 ### More in the studio
 
 | Project | Status | Description |
 |---|---|---|
 | [**Prism**](https://github.com/CutWire-Studios/Prism) | Public | Live media trigger & overlay tool |
+| [**Drift**](https://github.com/CutWire-Studios/Drift) | Public | Beginner-friendly desktop video editor |
 | [**CutWire-Docs**](https://github.com/CutWire-Studios/CutWire-Docs) | Public | Documentation for CutWire software |
-| Drift | In development | Beginner-friendly desktop video editor |
 
 ## Who it's for
 
@@ -90,7 +121,7 @@ A beginner-friendly live media trigger and overlay tool built with Qt 6, FFmpeg,
 
 CutWire Studios is nonprofit and community-driven. Ways to help:
 
-1. **Use and share** — run [Prism](https://github.com/CutWire-Studios/Prism) at your next event
+1. **Use and share** — run [Prism](https://github.com/CutWire-Studios/Prism) or [Drift](https://github.com/CutWire-Studios/Drift) at your next project
 2. **Report issues** — bugs and ideas make the tools better for everyone
 3. **Contribute** — patches, translations, docs, and packaging are welcome
 4. **Star & follow** — help others discover free creative software
@@ -102,6 +133,7 @@ CutWire Studios is nonprofit and community-driven. Ways to help:
 | Website | [cutwire.org](https://cutwire.org) |
 | Docs | [docs.cutwire.org](https://docs.cutwire.org) |
 | Prism | [github.com/CutWire-Studios/Prism](https://github.com/CutWire-Studios/Prism) |
+| Drift | [github.com/CutWire-Studios/Drift](https://github.com/CutWire-Studios/Drift) |
 | Location | Sri Lanka |
 
 ---
